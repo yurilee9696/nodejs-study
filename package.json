@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-study",
+  "version": "1.0.0",
+  "description": "생활코딩 강좌 nodejs 스터디",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuri Lee",
+  "license": "ISC"
+}
